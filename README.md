@@ -14,7 +14,7 @@
 * 下載並解壓縮檔案
 * 用[Poedit](http://poedit.net)開啟`zh_TW.po`, 再直接儲存檔案. [Poedit](http://poedit.net) 會自動在同一個資料夾生成`zh_TW.mo`.
 * 把 `zh_TW.po` 及 `zh_TW.mo` 上傳到 `wp-content/themes/mrtailor-child/` 目錄.
-* 複製下方的程式碼貼在`wp-content/themes/mrtailor-child/functions.php`ㄅ
+* 複製下方的程式碼貼在`wp-content/themes/mrtailor-child/functions.php`
 ```php
 /**
  * load mr tailor child theme translation file (zh_TW.mo)
