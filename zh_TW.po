@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mr. Tailor\n"
+"POT-Creation-Date: 2015-06-02 12:34+0200\n"
+"PO-Revision-Date: 2015-06-24 19:38+0800\n"
+"Last-Translator: Get Bowtied <hq@getbowtied.com>\n"
+"Language-Team: Arthur C. Kao <arthurckao@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: ../settings\n"
+"X-Poedit-SearchPathExcluded-2: ../inc/tgm\n"
+
+#: ../404.php:14
+msgid "Oops 404 again! That page can&rsquo;t be found."
+msgstr "這個頁面不存在!"
+
+#: ../404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "這裡好像什麼都沒有，試試搜尋功能吧"
+
+#: ../archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr "作者: %s"
+
+#: ../archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr "%s 日"
+
+#: ../archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr "%s 月"
+
+#: ../archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr "%s 年"
+
+#: ../archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:50
+msgid "Images"
+msgstr "商品圖片"
+
+#: ../archive.php:53
+msgid "Videos"
+msgstr "影片"
+
+#: ../archive.php:56
+msgid "Quotes"
+msgstr "引述"
+
+#: ../archive.php:59
+msgid "Links"
+msgstr "連結"
+
+#: ../archive.php:62 ../sidebar.php:13
+msgid "Archives"
+msgstr "存檔"
+
+#: ../archive.php:126 ../archive.php:130 ../archive.php:133 ../index.php:73
+#: ../index.php:77 ../index.php:80
+msgid "Continue Reading"
+msgstr "繼續閱讀"
+
+#: ../author-bio.php:6
+#, php-format
+msgid "About %s"
+msgstr "關於 %s"
+
+#: ../author-bio.php:11
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "所有發布自 %s <span class=\"meta-nav\">&rarr;</span>的文章"
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr "評論導覽"
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; 較舊評論"
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "較新評論 &rarr;"
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr "評論功能關閉"
+
+#: ../comments.php:89
+msgid "Leave a Reply"
+msgstr "回覆"
+
+#: ../comments.php:93
+msgid "Name"
+msgstr "姓名"
+
+#: ../comments.php:95
+msgid "Email Address"
+msgstr "電子郵件地址"
+
+#: ../comments.php:97
+msgid "Website"
+msgstr "網站"
+
+#: ../comments.php:103
+msgid "Message"
+msgstr "訊息"
+
+#: ../content-aside.php:19 ../content-audio.php:33 ../content-gallery.php:154
+#: ../content-image.php:26 ../content-link.php:28 ../content-page.php:7
+#: ../content-quote.php:30 ../content-search_.php:26 ../content-status.php:19
+#: ../content-video.php:37 ../content.php:53
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "繼續閱讀 <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-aside.php:20 ../content-audio.php:34 ../content-chat.php:33
+#: ../content-gallery.php:156 ../content-image.php:27 ../content-link.php:29
+#: ../content-page.php:8 ../content-quote.php:31 ../content-search_.php:27
+#: ../content-status.php:20 ../content-video.php:38 ../content.php:54
+msgid "Pages:"
+msgstr "頁面:"
+
+#: ../content-aside.php:27 ../content-audio.php:42 ../content-gallery.php:166
+#: ../content-image.php:34 ../content-link.php:37 ../content-quote.php:38
+#: ../content-status.php:27 ../content-video.php:46 ../content.php:61
+msgid "Share this post"
+msgstr "分享文章"
+
+#: ../content-link.php:23
+msgid "Posted on "
+msgstr "發佈於"
+
+#: ../content-none.php:19
+msgid "Nothing Found"
+msgstr "找不到"
+
+#: ../content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發佈第一篇文章? <a href=\"%1$s\">由此開始</a>."
+
+#: ../content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉, 您的關鍵字沒有搜尋結果. 請試用別的關鍵字來搜尋."
+
+#: ../content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "我們找不到您的頁面. 要不要試試看搜尋功能?"
+
+#: ../footer.php:33
+msgid "Payment methods"
+msgstr "付款方式"
+
+#: ../footer.php:94 ../header-topbar.php:69
+msgid "Logout"
+msgstr "登出"
+
+#: ../functions.php:128
+msgid "No Border"
+msgstr "沒有邊界"
+
+#: ../functions.php:232
+msgid "Top Bar Navigation"
+msgstr "頂欄導覽"
+
+#: ../functions.php:233
+msgid "Main Navigation"
+msgstr "主導覽"
+
+#: ../functions.php:434
+#, php-format
+msgid "Page %s"
+msgstr "第%s頁"
+
+#: ../functions.php:495
+msgid "Sidebar"
+msgstr "邊欄"
+
+#: ../functions.php:505
+msgid "Footer Widget Area"
+msgstr "頁腳小工具區"
+
+#: ../functions.php:515
+msgid "Shop Sidebar"
+msgstr "商店邊欄"
+
+#: ../functions.php:816
+msgid "Share this product"
+msgstr "分享這個商品"
+
+#: ../header-centered.php:136 ../header-default.php:80
+msgid "MENU"
+msgstr "選單"
+
+#: ../image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span>. Size: <i class=\"fa fa-picture-o\"></i> <a href="
+"\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <i class="
+"\"fa fa-folder-open\"></i> <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:46
+msgid "&larr; Previous"
+msgstr "&larr; 上一個"
+
+#: ../image.php:50
+msgid "Next &rarr;"
+msgstr "下一個 &rarr;"
+
+#: ../inc/shortcodes/visual-composer/custom_vc.php:62
+msgid "Height"
+msgstr "高度"
+
+#: ../inc/shortcodes/visual-composer/custom_vc.php:117
+msgid "Subtitle"
+msgstr "副標題"
+
+#: ../inc/shortcodes/visual-composer/from-the-blog.php:31
+msgid "Posts Slider"
+msgstr "文章幻燈片"
+
+#: ../inc/shortcodes/visual-composer/from-the-blog.php:32
+msgid "Content"
+msgstr "內容"
+
+#: ../inc/shortcodes/visual-composer/from-the-blog.php:33
+msgid "Display the latest posts in the blog"
+msgstr "在部落格中顯示最新文章"
+
+#: ../inc/shortcodes/visual-composer/from-the-blog.php:46
+msgid "Number of Posts"
+msgstr "文章數"
+
+#: ../inc/shortcodes/visual-composer/from-the-blog.php:49
+msgid "Number of posts to be displayed in the slider."
+msgstr "在幻燈片中展示的文章數"
+
+#: ../inc/shortcodes/visual-composer/from-the-blog.php:57
+msgid "Category"
+msgstr "分類"
+
+#: ../inc/shortcodes/visual-composer/social-media-profiles.php:6
+msgid "Social Media Profiles"
+msgstr "社群媒體簡介"
+
+#: ../inc/shortcodes/visual-composer/social-media-profiles.php:7
+msgid "Social"
+msgstr "社群"
+
+#: ../inc/shortcodes/visual-composer/social-media-profiles.php:8
+msgid "Links to your social media profiles"
+msgstr "社群媒體連結"
+
+#: ../inc/shortcodes/visual-composer/social-media-profiles.php:20
+msgid "Align"
+msgstr "對齊"
+
+#: ../inc/shortcodes/visual-composer/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "區段"
+
+#: ../inc/shortcodes/visual-composer/vc_templates/vc_accordion_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr "空區段. 編輯此頁面來增加內容"
+
+#: ../inc/shortcodes/visual-composer/vc_templates/vc_button2.php:4
+msgid "Text on the button"
+msgstr "按鈕上的文字"
+
+#: ../inc/shortcodes/visual-composer/wc-add-to-cart-url.php:6
+msgid "Add to Cart URL"
+msgstr "加到購物車連結"
+
+#: ../inc/shortcodes/visual-composer/wc-add-to-cart-url.php:7
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../inc/shortcodes/visual-composer/wc-add-to-cart-url.php:8
+msgid "Description"
+msgstr "介紹"
+
+#: ../inc/shortcodes/visual-composer/wc-add-to-cart-url.php:20
+msgid "ID"
+msgstr "代碼"
+
+#: ../inc/shortcodes/visual-composer/wc-add-to-cart-url.php:30
+msgid "SKU"
+msgstr "貨號"
+
+#: ../inc/templates/post-meta.php:8
+msgid "Sticky"
+msgstr "黏"
+
+#: ../inc/templates/post-meta.php:12
+msgid " This entry was posted by "
+msgstr " 本篇發佈自 "
+
+#: ../inc/templates/post-meta.php:14
+#, php-format
+msgid "View all posts by %s"
+msgstr "檢視來自 %s 的所有文章"
+
+#: ../inc/templates/post-meta.php:25
+msgid " in "
+msgstr " 中 "
+
+#: ../inc/templates/post-meta.php:31
+msgid " and tagged "
+msgstr " 及被標籤 "
+
+#: ../inc/templates/post-meta.php:42 ../inc/templates/post-meta.php:63
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: ../inc/templates/post-meta.php:46
+msgid " on "
+msgstr " 上 "
+
+#: ../inc/templates/post-meta.php:48 ../inc/templates/post-meta.php:69
+#, php-format
+msgid "Permalink to %s"
+msgstr "%s 的固定連結"
+
+#: ../inc/templates/template-tags.php:86
+msgid "Previous Reading"
+msgstr "閱讀上一篇"
+
+#: ../inc/templates/template-tags.php:90
+msgid "Next Reading"
+msgstr "閱讀下一篇"
+
+#: ../inc/templates/template-tags.php:102
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 較舊文章"
+
+#: ../inc/templates/template-tags.php:108
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "較新文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/templates/template-tags.php:207
+msgid "Pingback:"
+msgstr "回呼:"
+
+#: ../inc/templates/template-tags.php:207
+#: ../inc/templates/template-tags.php:247
+msgid "Edit"
+msgstr "編輯"
+
+#: ../inc/templates/template-tags.php:222
+msgid "Your comment is awaiting moderation."
+msgstr "您的評論目前尚待批准中"
+
+#: ../inc/templates/template-tags.php:225
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../inc/templates/template-tags.php:230
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: ../inc/widgets/woocommerce-cart.php:12
+msgid "Display the user's Cart in the sidebar."
+msgstr "在側邊欄顯示使用者的購物車."
+
+#: ../inc/widgets/woocommerce-cart.php:14
+msgid "WooCommerce Cart"
+msgstr "WooCommerce 購物車"
+
+#: ../inc/widgets/woocommerce-cart.php:18
+#: ../inc/widgets/woocommerce-cart.php:45
+msgid "Cart"
+msgstr "購物車"
+
+#: ../inc/widgets/woocommerce-cart.php:19
+msgid "Title"
+msgstr "標題"
+
+#: ../inc/widgets/woocommerce-cart.php:24
+msgid "Hide if cart is empty"
+msgstr "隱藏空的購物車"
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜尋結果: &ldquo;%s&rdquo;"
+
+#: ../searchform.php:3
+msgid "Search for:"
+msgstr "搜尋:"
+
+#: ../searchform.php:4
+msgid "Search..."
+msgstr "搜尋..."
+
+#: ../searchform.php:5
+msgid "Search"
+msgstr "搜尋"
+
+#: ../sidebar.php:20
+msgid "Meta"
+msgstr "描述資訊"
